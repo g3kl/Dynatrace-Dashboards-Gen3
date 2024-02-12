@@ -16,7 +16,12 @@ None.
 
 # Use Cases
 
-- TDB
+- What happens to my Application when Traffic increases?
+- What do I need to optimize before a Marketing Campaign takes place?
+- What user actions scale poorly?
+- What GEO location scales poorly?
+- Will I see too many errors with an increase in Traffic?
+- Can my Application handle increased loads due to major events like Cyber Monday?
   
 # Install Instructions
 
