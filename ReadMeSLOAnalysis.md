@@ -1,5 +1,5 @@
 # SLO Analysis Dashboard
-This dashboard uses Causal AI to determine the relationship between Traffic and SLOs. The dashboard builds a model for your SLO and then predicts at what traffic volume will your SLO will warn/fail on average.
+This dashboard uses Causal AI to determine the relationship between Traffic and SLOs. The dashboard builds a model for your SLO and then predicts at what traffic volume your SLO will warn/fail on average.
 
 ![SLO Analysis Dashboard](SLOAnalysis.png)
 
