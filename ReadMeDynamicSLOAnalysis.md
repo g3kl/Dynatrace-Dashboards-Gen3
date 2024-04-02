@@ -1,5 +1,5 @@
-# SLO Analysis Dashboard
-This dashboard uses Causal AI to determine the relationship between Traffic and SLOs. The dashboard builds a model for your SLO and then predicts at what traffic volume your SLO will warn/fail on average.
+# Dynamic SLO Analysis Dashboard
+This dashboard uses Causal AI to determine the relationship between Traffic and SLOs. The dashboard builds a model for your SLO and then predicts at what traffic volume your SLO will warn/fail on average. Leverage the variable dropdown filters to dynamically define your SLO (i.e. Duration for Key Load Actions set to 6 seconds).
 
 ![SLO Analysis Dashboard](SLOAnalysis.png)
 
@@ -24,7 +24,7 @@ None.
   
 # Install Instructions
 
-- Download [Dashboard JSON](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/SLO%20Analysis.json)
+- Download [Dashboard JSON](https://github.com/TechShady/Dynatrace-Dashboards-Gen3/blob/main/Dynamic%20SLO%20Analysis.json)
 - Launch the new Gen3 UI
 - Select the Dashboard app
 - In the upper righthand corner, select Upload and select your json file
