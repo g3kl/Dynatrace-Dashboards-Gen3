@@ -56,7 +56,7 @@ The top section is called the KPI banner. This section has the following KPIs:
 
 ![SLO Analysis Dashboard](SLOAnalysis-2.png)
 
-The middle section displays metrics for the last 30 days for Average KPI, SLO Success, SLO Warning and SLO Failure. The two right most tiles display the predicted traffic percent increase that will cause your SLO to be in Warning and Failure state. 
+The middle section displays metrics for the last 30 days for Average KPI, SLO Success, SLO Warning and SLO Failure. The two right most tiles display the predicted traffic percent increase that will cause your SLO to be in Warning and Failure state. If either of the 2 right most tiles display N/A, it due to one of two scenarios. 1. Make sure your SLO is set to a value greater than the Average KPI (right most tile). 2. Your KPI improves as traffic increases. 
 
 ![SLO Analysis Dashboard](SLOAnalysis-3.png)
 
