@@ -32,7 +32,7 @@ None.
 
 # User Guide
 
-The SLO Analysis Dashboard is broken down into four sections.
+The Dynamic SLO Analysis Dashboard is broken down into four sections.
 
 ![SLO Analysis Dashboard](SLOAnalysis-0.png)
 
